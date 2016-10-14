@@ -4,4 +4,4 @@ a multithreaded banking simulator written in C that allows multiple clients to c
 to a server communicating through a TCP/IP connection. Multiple clients may connect at a time and interact with their account while
 maintaining the integrity of the data through mutex locking.
 
-Refer to [readme.pdf](readme.pdf) for the full documentation
+Refer to [Readme.pdf](Readme.pdf) for the full documentation
